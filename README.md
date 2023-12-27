@@ -1,2 +1,2 @@
-# pet_projects
+# Pet projects
 Repository with my pet projects
